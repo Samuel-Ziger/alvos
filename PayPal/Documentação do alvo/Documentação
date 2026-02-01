@@ -1,0 +1,19 @@
+APIs NVP/SOAP
+https://developer.paypal.com/api/nvp-soap/
+Padrão de pagamentos de sites (WPS)
+https://developer.paypal.com/docs/archive/paypal-payments-standard/integration-guide/Appx-websitestandard-htmlvariables/
+https://developer.paypal.com/upgrade/wps/overview/
+https://developer.paypal.com/upgrade/wps/guide/Simple%20Buy%20Button/
+SDK JavaScript do PayPal
+https://developer.paypal.com/sdk/js/
+NCPS - Solução de Pagamento Sem Código
+https://docs.paypal.ai/payments/methods/pay-links-buttons
+Observamos um interesse crescente nos fluxos de finalização de compra que utilizam as seguintes APIs.
+APIs de pedidos
+Documentação:
+https://developer.paypal.com/docs/api/orders/v1/
+https://developer.paypal.com/docs/api/orders/v2/
+API de Pagamentos
+Documentação:
+https://developer.paypal.com/docs/api/payments/v1/
+https://developer.paypal.com/docs/api/payments/v2/
