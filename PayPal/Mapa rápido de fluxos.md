@@ -1,3 +1,4 @@
+Mapa rápido de fluxos (para modelar checkout/pedidos/pagamentos)
 Orders v2 (fluxo moderno de checkout)
 Criar pedido: POST /v2/checkout/orders
 Resultado típico: id + status (ex.: PAYER_ACTION_REQUIRED) + link para ação do pagador (payer-action/aprovação).
